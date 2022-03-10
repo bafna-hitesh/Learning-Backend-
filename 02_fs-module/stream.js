@@ -1,8 +1,8 @@
-const fs = require('fs');
+const fs = require("fs");
 
-const rs = fs.createReadStream('./lorem.txt', {encodeing: 'utf8'});
+const rs = fs.createReadStream("./files/lorem.txt", { encodeing: "utf8" });
 
-const ws = fs.createWriteStream('./new-lorem.txt');
+const ws = fs.createWriteStream("./files/new-lorem.txt");
 
 rs.pipe(ws);
 
