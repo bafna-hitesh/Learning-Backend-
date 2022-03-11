@@ -1,0 +1,7 @@
+220311	16:42:27	fdf19654-9566-4129-b3af-db39bad7931f	/new-page	GET
+220311	16:42:27	85f19133-432f-41bc-a23f-5adbc145a6c0	/css/style.css	GET
+220311	16:42:27	73c8abff-d73c-4635-a246-4cc19dfcf7e3	/img/demoImg.jpg	GET
+220311	16:42:27	d9099f3e-0c04-4e6a-9329-01aa9ca94e59	/favicon.ico	GET
+220311	16:42:45	b6e97af5-b895-41d4-96e0-1dcea83b3a93	/	GET
+220311	16:42:45	7cdee00c-5ebb-4ae0-923e-1d5855552e4d	/css/style.css	GET
+220311	16:42:45	52256f06-6149-40c5-8d7f-fe1b6b7fa0aa	/favicon.ico	GET
